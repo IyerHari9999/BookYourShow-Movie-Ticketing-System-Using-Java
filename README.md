@@ -1,7 +1,7 @@
 # BookYourShow-Movie-Ticketing-System-Using-Java
 
-# Note That this project was made using NetBeans IDE 8.2. So you can open the folder "BookYourShow" as a new project in NetBeans.
-# Also make sure you use Jcalender in order to run this project errorless. 
+# This project was made using NetBeans IDE 8.2. So you can open the folder "BookYourShow" as a new project in NetBeans.
+Also make sure you use Jcalender in order to run this project errorless. 
 
 INTRODUCTION 
 The program BookYourShow is a Graphical User Interface based program that stimulates a real-time movie booking System interface to the end User. 
