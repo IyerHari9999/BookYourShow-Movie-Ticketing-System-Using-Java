@@ -1,6 +1,8 @@
-BookYourShow-Movie-Ticketing-System-Using-Java
+# BookYourShow-Movie-Ticketing-System-Using-Java
+# This project was made using NetBeans IDE 8.2 
 
-# This project was made using NetBeans IDE 8.2. So you can open the folder "BookYourShow" as a new project in NetBeans.
+Note
+You can open the folder "BookYourShow" (extract BookYourShow.zip) as a new project in NetBeans.
 Also make sure you use Jcalender in order to run this project errorless. 
 
 INTRODUCTION 
